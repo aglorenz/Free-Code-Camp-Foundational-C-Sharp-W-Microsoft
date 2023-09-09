@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\bin\Debug\net7.0\SubscriptionRenewal.exe
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\bin\Debug\net7.0\SubscriptionRenewal.deps.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\bin\Debug\net7.0\SubscriptionRenewal.runtimeconfig.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\bin\Debug\net7.0\SubscriptionRenewal.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\bin\Debug\net7.0\SubscriptionRenewal.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.csproj.AssemblyReference.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.AssemblyInfo.cs
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\refint\SubscriptionRenewal.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\SubscriptionRenewal.genruntimeconfig.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SubscriptionRenewal\obj\Debug\net7.0\ref\SubscriptionRenewal.dll
