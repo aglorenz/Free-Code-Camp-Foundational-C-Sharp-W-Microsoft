@@ -19,10 +19,9 @@ int[] studentScores = new int[10];
 
 string currentStudentLetterGrade = "";
 
-Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
 foreach (string name in studentNames)
 {
-
     string currentStudent = name;
 
     if (currentStudent == "Sophia")
@@ -66,6 +65,7 @@ foreach (string name in studentNames)
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
+
     else if (currentStudentGrade >= 93)
         currentStudentLetterGrade = "A";
 
