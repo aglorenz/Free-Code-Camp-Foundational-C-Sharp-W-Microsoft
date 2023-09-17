@@ -18,7 +18,7 @@ This C# console application is designed to:
     Emma:           85.6    B
     Logan:          91.2    A-
 */
-int examAssignments = 5;
+int numExams = 5;
 
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 
@@ -59,7 +59,7 @@ foreach (string name in studentNames)
     else if (currentStudent == "Logan")
         studentScores = loganScores;
 
-    int sumAssignmentScores = 0;
+    int sumExamScores = 0;
     int sumExtraCreditScores = 0;
 
     decimal currentStudentGrade = 0;
@@ -68,6 +68,7 @@ foreach (string name in studentNames)
     decimal currentStudentExtraCreditPoints = 0;
 
     int gradedAssignments = 0;
+    int gradedExtraCreditAssignments = 0;
 
     /* 
     the inner foreach loop sums assignment scores
@@ -77,14 +78,20 @@ foreach (string name in studentNames)
     {
         gradedAssignments += 1;
 
-        if (gradedAssignments <= examAssignments)
-            sumAssignmentScores += score;
+        if (gradedAssignments <= numExams)
+            sumExamScores += score;
 
         else
-            sumAssignmentScores += score / 10;
+        {
+            sumExtraCreditScores += score;
+            gradedExtraCreditAssignments += 1;
+        }
     }
 
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
+    currentStudentExamScore = (decimal)sumExamScores / numExams;
+    currentStudentExtraCreditScore = (decimal)(sumExtraCreditScores / gradedExtraCreditAssignments);
+    currentStudentExtraCreditPoints = (decimal)sumExtraCreditScores / 10 / numExams;
+    currentStudentGrade = ((decimal)sumExtraCreditScores / 10 + sumExamScores) / numExams;
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -127,7 +134,7 @@ foreach (string name in studentNames)
 
     // Student         Grade
     // Sophia:         92.2    A-
-    
+
     Console.WriteLine($"{currentStudent}\t\t{currentStudentExamScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{currentStudentExtraCreditScore} ({currentStudentExtraCreditPoints} pts)");
 }
 
