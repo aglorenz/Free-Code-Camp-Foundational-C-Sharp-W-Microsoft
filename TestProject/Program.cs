@@ -1,9 +1,16 @@
-﻿string[] fraudulentOrderIDs = {"B123","C234","A345","C15","B177","G3033","C234","B179"};
+﻿string permission = "Manadger";
+int level = 19;
+string message = "";
 
-foreach (string id in fraudulentOrderIDs) 
+if (permission.Contains("Admin")) 
 {
-    if (id.StartsWith('B'))
-    {
-        Console.WriteLine(id);
-    }
+   message =  level > 55 ? "Welcome, Super Admin user." : "Welcome, Admin user.";
 }
+else if (permission.Contains("Manager"))
+{
+    message = level >= 20 ? "Contact an Admin for access." : "You do not have sufficient privileges.";
+}
+else message = "You do not have sufficient privileges.";
+
+Console.WriteLine(message);
+
