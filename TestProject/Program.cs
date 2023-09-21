@@ -1,11 +1,19 @@
-﻿for (int i = 1; i <= 100; i++)
+﻿int heroHealth = 10;
+int monsterHealth = 10;
+Random dice = new Random();
+
+while (heroHealth > 0 && monsterHealth > 0)
 {
-    if (i%3 == 0 && i%5 == 0)
-        Console.WriteLine($"{i} - FizzBuzz");
-    else if (i%3 == 0)
-        Console.WriteLine($"{i} - Fizz");
-    else if (i%5 == 0)
-        Console.WriteLine($"{i} - Buzz");
-    else
-        Console.WriteLine($"{i}");
+    int attack = dice.Next(1, 11);
+    monsterHealth -= attack;
+    Console.WriteLine($"Monster was damaged and lost {attack} health;  Health is now {monsterHealth}");
+
+    if (monsterHealth > 0)
+    {
+        attack = dice.Next(1, 11);
+        heroHealth -= attack;
+        Console.WriteLine($"Hero was damaged and lost {attack} health;  Health is now {heroHealth}");
+    }
 }
+
+Console.WriteLine($"The winner is {(monsterHealth > heroHealth ? "Monster" : "Hero")}");
