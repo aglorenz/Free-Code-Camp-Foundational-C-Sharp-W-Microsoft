@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\bin\Debug\net7.0\MonsterVsHero.exe
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\bin\Debug\net7.0\MonsterVsHero.deps.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\bin\Debug\net7.0\MonsterVsHero.runtimeconfig.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\bin\Debug\net7.0\MonsterVsHero.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\bin\Debug\net7.0\MonsterVsHero.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.csproj.AssemblyReference.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.AssemblyInfo.cs
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\refint\MonsterVsHero.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\MonsterVsHero.genruntimeconfig.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\MonsterVsHero\obj\Debug\net7.0\ref\MonsterVsHero.dll
