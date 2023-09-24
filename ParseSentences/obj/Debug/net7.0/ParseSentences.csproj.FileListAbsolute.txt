@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\bin\Debug\net7.0\ParseSentences.exe
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\bin\Debug\net7.0\ParseSentences.deps.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\bin\Debug\net7.0\ParseSentences.runtimeconfig.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\bin\Debug\net7.0\ParseSentences.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\bin\Debug\net7.0\ParseSentences.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.csproj.AssemblyReference.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.AssemblyInfo.cs
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\refint\ParseSentences.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ParseSentences.genruntimeconfig.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ParseSentences\obj\Debug\net7.0\ref\ParseSentences.dll
