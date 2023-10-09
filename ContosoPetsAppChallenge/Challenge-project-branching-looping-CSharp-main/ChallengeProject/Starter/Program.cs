@@ -322,10 +322,11 @@ do
                                 validEntry = animalPhysicalDescription == "" ? false : true;
                             }
                         } while (validEntry == false);
+                        ourAnimals[i,4] = "Physical description: " + animalPhysicalDescription;
                        }
                 }
             }
-            Console.WriteLine("Age and physical descriptions for all animal freinds are complete");
+            Console.WriteLine("Age and physical descriptions for all animal freinds are complete.");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
