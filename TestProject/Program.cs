@@ -1,26 +1,19 @@
-﻿string[] myStrings = new string[2]
-    {
-        "I like pizza. I like roast chicken. I like salad",
-        "I like all three of the menu choices"
-    };
+﻿int value1 = 12;
+decimal value2 = 6.2m;
+float value3 = 4.3f;
 
-int periodLocation;
+// Your code here to set result1
+// Hint: You need to round the result to nearest integer (don't just truncate)
+int result1 = Convert.ToInt32(value1 / value2);
+Console.WriteLine($"Divide value1 by value2, display the result as an int: {result1}");
 
-for (int i = 0; i < myStrings.Length; i++)
-{
-    string myString = myStrings[i];
-    periodLocation = myString.IndexOf('.');
-    
-    while (periodLocation != -1)
-    {
-        // Write out everything up until the first period
-        Console.WriteLine(myString.Remove(periodLocation));
-        
-        // Grab everthing after the period and then trim any leading spaces
-        myString = myString.Substring(periodLocation + 1).TrimStart();
-        
-        // Get the next period location if any
-        periodLocation = myString.IndexOf('.');
-    }
-    Console.WriteLine(myString);
-}
+// Your code here to set result2
+decimal result2 = (value2 / (decimal)value3);
+Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {result2}");
+
+// Your code here to set result3
+float result3 = value3 / value1;
+Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
+
+decimal result4 = 0; 
+bool success = decimal.TryParse("1.2345", out result4);

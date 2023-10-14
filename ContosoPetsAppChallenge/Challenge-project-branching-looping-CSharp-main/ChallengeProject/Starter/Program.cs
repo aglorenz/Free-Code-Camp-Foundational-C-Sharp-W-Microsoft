@@ -347,7 +347,7 @@ do
                             readResult = Console.ReadLine();
                             if (readResult != null)
                             {
-                                animalNickname = readResult;
+                                animalNickname = readResult.Trim();
                                 validEntry = animalNickname == "" ? false : true;
                             }
                         } while (validEntry == false);
@@ -362,7 +362,7 @@ do
                             readResult = Console.ReadLine();
                             if (readResult != null)
                             {
-                                animalPersonalityDescription = readResult;
+                                animalPersonalityDescription = readResult.Trim();
                                 validEntry = animalPersonalityDescription == "" ? false : true;
                             }
                         } while (validEntry == false);
