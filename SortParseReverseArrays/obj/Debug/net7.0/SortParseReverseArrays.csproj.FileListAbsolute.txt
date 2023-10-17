@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\bin\Debug\net7.0\SortParseReverseArrays.exe
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\bin\Debug\net7.0\SortParseReverseArrays.deps.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\bin\Debug\net7.0\SortParseReverseArrays.runtimeconfig.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\bin\Debug\net7.0\SortParseReverseArrays.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\bin\Debug\net7.0\SortParseReverseArrays.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.csproj.AssemblyReference.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.AssemblyInfo.cs
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\refint\SortParseReverseArrays.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\SortParseReverseArrays.genruntimeconfig.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\SortParseReverseArrays\obj\Debug\net7.0\ref\SortParseReverseArrays.dll
