@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\bin\Debug\net7.0\FormatPadStrings.exe
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\bin\Debug\net7.0\FormatPadStrings.deps.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\bin\Debug\net7.0\FormatPadStrings.runtimeconfig.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\bin\Debug\net7.0\FormatPadStrings.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\bin\Debug\net7.0\FormatPadStrings.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.csproj.AssemblyReference.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.AssemblyInfo.cs
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\refint\FormatPadStrings.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\FormatPadStrings.genruntimeconfig.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\FormatPadStrings\obj\Debug\net7.0\ref\FormatPadStrings.dll
