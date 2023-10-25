@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.exe
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.deps.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.runtimeconfig.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\bin\Debug\net7.0\ExtractReplaceRemove.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.csproj.AssemblyReference.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.AssemblyInfo.cs
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\refint\ExtractReplaceRemove.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ExtractReplaceRemove.genruntimeconfig.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ExtractReplaceRemove\obj\Debug\net7.0\ref\ExtractReplaceRemove.dll
