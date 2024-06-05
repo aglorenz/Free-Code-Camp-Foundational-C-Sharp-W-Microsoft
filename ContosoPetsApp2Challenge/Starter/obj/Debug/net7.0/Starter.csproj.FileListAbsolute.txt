@@ -1,0 +1,15 @@
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.csproj.AssemblyReference.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\stude\source\repos\Free-Code-Camp-Foundational-C-Sharp-W-Microsoft\ContosoPetsApp2Challenge\Starter\obj\Debug\net7.0\ref\Starter.dll
